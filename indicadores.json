@@ -1,0 +1,38 @@
+[
+{
+"Orden": 1,
+"TipoDeMosaico": 1,
+"Descripcion": "Establecimientos",
+"Valor": "220",
+"ColorDeValor": "FFFF00",
+"ColorDeFondo": "408080",
+"FechaYHora": "2020-11-13 16:46:48"
+},
+{
+"Orden": 2,
+"TipoDeMosaico": 1,
+"Descripcion": "Precio de la Leche al Productor",
+"Valor": "$ 19.22",
+"ColorDeValor": "FFFF00",
+"ColorDeFondo": "FF00FF",
+"FechaYHora": "2020-11-13 16:46:48"
+},
+{
+"Orden": 3,
+"TipoDeMosaico": 1,
+"Descripcion": "Vacas Secas",
+"Valor": "30%",
+"ColorDeValor": "0000FF",
+"ColorDeFondo": "00FF00",
+"FechaYHora": "2020-11-13 16:46:48"
+},
+{
+"Orden": 4,
+"TipoDeMosaico": 1,
+"Descripcion": "Vacas Totales",
+"Valor": "135000",
+"ColorDeValor": "000000",
+"ColorDeFondo": "FFFFFF",
+"FechaYHora": "2020-11-13 16:46:48"
+}
+]
